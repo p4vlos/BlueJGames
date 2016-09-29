@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=class\ Vendor
+comment0.text=\nA\ Vendor\ supplies\ goods\ provided\ that\ a\ bank\ account\ agrees\ to\ pay\n\n@author\ Richard\ Jones\ \n@version\ September\ 2003\n\n
+comment1.params=
+comment1.target=int\ getPrice()
+comment1.text=\nGet\ the\ price\ of\ an\ object\n\n@return\ the\ price\n\n
+comment2.target=name
+comment3.params=account\ price
+comment3.target=Object\ buy(BankAccount,int)
+comment3.text=\nBuy\ an\ item\n\n@param\ \ account\ the\ account\ to\ debit\n@param\ \ sum\ the\ cost\ of\ the\ item\n@return\ null\ if\ transaction\ fails\ \n\n
+comment4.target=PRICE
+comment5.params=
+comment5.target=String\ getName()
+comment5.text=\nGet\ the\ name\ of\ the\ vendor\n\n@return\ the\ name\n\n
+comment6.params=name
+comment6.target=Vendor(String)
+comment6.text=\nCreate\ a\ new\ vendor\n\n@param\ name\ the\ name\ of\ the\ vendor\n\n
+comment7.target=income
+numComments=8

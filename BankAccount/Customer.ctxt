@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=class\ Customer
+comment0.text=\nCustomer\n\n@author\ Richard\ Jones\ \n@version\ September\ 2003\n\n
+comment1.params=
+comment1.target=String\ getName()
+comment1.text=\nGet\ customer's\ name\n\n@return\ \ \ \ \ the\ name\n\n
+comment2.target=name
+comment3.params=sum
+comment3.target=void\ openAccount(int)
+comment3.text=\nOpen\ a\ bank\ account\n\n@param\ sum\ the\ initial\ deposit\n\n
+comment4.params=
+comment4.target=BankAccount\ getAccount()
+comment4.text=\nGet\ account\n\n@return\ \ \ \ \ the\ account\n\n
+comment5.params=vendor
+comment5.target=void\ buy(Vendor)
+comment5.text=\nBuy\ an\ object\n\n@param\ vendor\ The\ vendor\n\n
+comment6.params=name
+comment6.target=Customer(String)
+comment6.text=\nConstructor\ for\ objects\ of\ class\ Customer\n\n
+comment7.target=account
+comment8.params=sum
+comment8.target=boolean\ withdraw(int)
+comment8.text=\nWithdraw\ some\ money\n\n@param\ sum\ the\ amount\ to\ withdraw\n@return\ true\ if\ the\ withdrawal\ succeeds\n\n
+comment9.params=sum
+comment9.target=void\ deposit(int)
+comment9.text=\nDeposit\ some\ money\n\n@param\ sum\ the\ sum\ to\ deposit\n\n
+numComments=10
